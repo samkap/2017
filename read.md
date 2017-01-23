@@ -5,6 +5,7 @@
 - [ ] Just Kids - Patti Smith
 - [ ] Sex Object - Jessica Valenti
 - [ ] A Manual for Cleaning Women - Lucia Berlin
+- [ ] President Barack Obama's [Presidency reading list](https://www.nytimes.com/2017/01/16/books/obamas-secret-to-surviving-the-white-house-years-books.html?action=click&contentCollection=Books&module=RelatedCoverage&region=EndOfArticle&pgtype=article)
 - [ ] More on [Goodreads](https://www.goodreads.com/review/list/8459271-samkap?read_at=2016&shelf=read)
 - [ ] Add books from this [list](http://www.huffingtonpost.com/2015/05/19/recent-books-women-should-read_n_7314166.html), read them all eventually
 
@@ -12,3 +13,5 @@
 ### Articles to read
 - [ ] [What Having a Growth Mindset Really Means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means?utm_content=buffer41ea4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ ] 
+
+
