@@ -11,7 +11,6 @@
 - [X] Life-changing Magic of Tidying Up - Marie Kondo
 - [X] Why do Zebra get uclers - Robert Sapolsky
 - [ ] A Manual for Cleaning Women - Lucia Berlin
-- [X] Notorious RBG - Irin Carmon, Shana Knizhnik
 - [X] Bird by Bird - Susan Bennett
 - [ ] More on [Goodreads](https://www.goodreads.com/review/list/8459271-samkap?read_at=2016&shelf=read)
 - [ ] Add books from this [list](http://www.huffingtonpost.com/2015/05/19/recent-books-women-should-read_n_7314166.html), read them all eventually
